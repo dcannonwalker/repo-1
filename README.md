@@ -1,8 +1,8 @@
-# repo-1
-my first repository
+#Updated Bio
 
-create item list
+About Paul Morris
 
--first item
--second item
+-I worked at the St. Louis Fed before coming to ISU.
+-Lots of updating charts of economic data and pretending that I knew what I was doing in R.
+
 
